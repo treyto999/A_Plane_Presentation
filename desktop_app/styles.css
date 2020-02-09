@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+img {
+  margin-left: 35vw;
+  height: 25vw;
+  width: 25vw;
+}
+
+h1 {
+  font-size: 6vw;
+  width: 60vw;
+  margin: 0 0 0 32vw;
+}
+
+input {
+  margin: 4vw 0 0 28vw;
+  width: 40vw;
+  font-size: 4vw;
+}
