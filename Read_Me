@@ -1,0 +1,20 @@
+Inspiration
+We wanted to make it easier for people to swipe through presentations.
+
+What it does
+It allows people to use the webcam or a camera that's connected to a computer to use motions to swipe through their presentations. It makes it where they aren't constantly walking back and forth to their computer to click or where they aren't just sitting behind the computer the whole time.
+
+How we built it
+With the use of PowerPoint and their packages that give presentations, we just added our own with node.js using html, js, and css.
+
+Challenges we ran into
+The biggest challenge was getting the webcam to pick up our motions. It was being really finicky and wasn't working at all how we wanted it to and we kept pushing through to try and get it where we wanted it.
+
+Accomplishments that we're proud of
+We are proud of everything that we have done so far. We had to scrap our original plan and moved to this and we tried hard to get it all done in our limited amount of time we had left.
+
+What we learned
+We learned a lot about some webcam uses and how it can be pretty difficult to get it down the way we want it.
+
+What's next for Just a Plane Presentation
+We hope to get it 100%, we think it would be a really cool thing for many different people to use. It adds a touch of class and a cool factor to presentations. We hope that some people will start using eventually and maybe our idea can become a popular option
